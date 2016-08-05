@@ -18,6 +18,3 @@ var a = [1,1,'1','3',1];
 var u = unique(a);
 console.log(u);
 
-/*
-   method2 
- */
