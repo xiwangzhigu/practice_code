@@ -1,2 +1,2 @@
 # practice_code
-js code for practise
+## js_algorithm code for practise and study
